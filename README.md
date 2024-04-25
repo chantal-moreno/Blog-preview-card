@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/chantal-moreno/Blog-preview-card)
+- Live Site URL: [https://chantal-moreno.github.io/Blog-preview-card/](https://chantal-moreno.github.io/Blog-preview-card/)
 
 ## My process
 
@@ -47,3 +47,4 @@ Users should be able to:
 
 - Github - [Chantal Moreno](https://github.com/chantal-moreno)
 - Frontend Mentor - [@chantal-moreno](https://www.frontendmentor.io/profile/chantal-moreno)
+
